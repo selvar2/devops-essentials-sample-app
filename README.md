@@ -1,3 +1,3 @@
 # devops-essentials-sample-app ####
 
-This is a simple sample application intended to be used alongside the labs for DevOps Essentials 1abc
+This is a simple sample application intended to be used alongside the labs for DevOps Essentials 1abcd
